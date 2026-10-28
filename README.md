@@ -1,3 +1,5 @@
+> Atualização de e-mail: para Render gratuito, use a integração Brevo por HTTPS. Veja [configuração e validação](docs/EMAIL-HTTPS.md). As instruções SMTP abaixo são uma alternativa para hospedagens que permitem essas portas.
+
 # Predial — gestão de manutenção
 
 Versão de continuidade preparada em 18/10/2026 a partir do pacote `api-predial-wip.tar.gz` e dos quatro módulos recuperados dos textos enviados. Preserva React/Vite, Express, Prisma 6.19.3 e MySQL. O pacote não foi comparado com o HEAD atual do GitHub: faça a comparação antes de substituir seu repositório.
