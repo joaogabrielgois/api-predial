@@ -1,3 +1,5 @@
+> Atualização de e-mail: para Render gratuito, use a integração Brevo por HTTPS. Veja [configuração e validação](EMAIL-HTTPS.md). As instruções SMTP abaixo são uma alternativa para hospedagens que permitem essas portas.
+
 # Configuração e implantação controlada
 
 ## Antes de tocar em produção
